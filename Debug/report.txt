@@ -1,0 +1,492 @@
+memory[0]=756987985925
+memory[1]=758061727750
+memory[2]=1169338400771
+memory[3]=827854946311
+memory[4]=1030792151040
+memory[5]=140737488355328
+memory[6]=1
+memory[7]=0
+
+
+@@@
+state:
+	pc 0
+	memory:
+		mem[ 0 ] 756987985925
+		mem[ 1 ] 758061727750
+		mem[ 2 ] 1169338400771
+		mem[ 3 ] 827854946311
+		mem[ 4 ] 1030792151040
+		mem[ 5 ] 140737488355328
+		mem[ 6 ] 1
+		mem[ 7 ] 0
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] 0
+		reg[ 2 ] 0
+		reg[ 3 ] 0
+		reg[ 4 ] 0
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+		reg[ 8 ] 0
+		reg[ 9 ] 0
+		reg[ 10 ] 0
+		reg[ 11 ] 0
+		reg[ 12 ] 0
+		reg[ 13 ] 0
+		reg[ 14 ] 0
+		reg[ 15 ] 0
+		reg[ 16 ] 0
+		reg[ 17 ] 0
+		reg[ 18 ] 0
+		reg[ 19 ] 0
+		reg[ 20 ] 0
+		reg[ 21 ] 0
+		reg[ 22 ] 0
+		reg[ 23 ] 0
+		reg[ 24 ] 0
+		reg[ 25 ] 0
+		reg[ 26 ] 0
+		reg[ 27 ] 0
+		reg[ 28 ] 0
+		reg[ 29 ] 0
+		reg[ 30 ] 0
+		reg[ 31 ] 0
+		reg[ 32 ] 0
+		reg[ 33 ] 0
+		reg[ 34 ] 0
+		reg[ 35 ] 0
+		reg[ 36 ] 0
+		reg[ 37 ] 0
+		reg[ 38 ] 0
+		reg[ 39 ] 0
+		reg[ 40 ] 0
+		reg[ 41 ] 0
+		reg[ 42 ] 0
+		reg[ 43 ] 0
+		reg[ 44 ] 0
+		reg[ 45 ] 0
+		reg[ 46 ] 0
+		reg[ 47 ] 0
+		reg[ 48 ] 0
+		reg[ 49 ] 0
+		reg[ 50 ] 0
+		reg[ 51 ] 0
+		reg[ 52 ] 0
+		reg[ 53 ] 0
+		reg[ 54 ] 0
+		reg[ 55 ] 0
+		reg[ 56 ] 0
+		reg[ 57 ] 0
+		reg[ 58 ] 0
+		reg[ 59 ] 0
+		reg[ 60 ] 0
+		reg[ 61 ] 0
+		reg[ 62 ] 0
+		reg[ 63 ] 0
+CF = 0
+end state
+
+@@@
+state:
+	pc 1
+	memory:
+		mem[ 0 ] 756987985925
+		mem[ 1 ] 758061727750
+		mem[ 2 ] 1169338400771
+		mem[ 3 ] 827854946311
+		mem[ 4 ] 1030792151040
+		mem[ 5 ] 140737488355328
+		mem[ 6 ] 1
+		mem[ 7 ] 0
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] 140737488355328
+		reg[ 2 ] 0
+		reg[ 3 ] 0
+		reg[ 4 ] 0
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+		reg[ 8 ] 0
+		reg[ 9 ] 0
+		reg[ 10 ] 0
+		reg[ 11 ] 0
+		reg[ 12 ] 0
+		reg[ 13 ] 0
+		reg[ 14 ] 0
+		reg[ 15 ] 0
+		reg[ 16 ] 0
+		reg[ 17 ] 0
+		reg[ 18 ] 0
+		reg[ 19 ] 0
+		reg[ 20 ] 0
+		reg[ 21 ] 0
+		reg[ 22 ] 0
+		reg[ 23 ] 0
+		reg[ 24 ] 0
+		reg[ 25 ] 0
+		reg[ 26 ] 0
+		reg[ 27 ] 0
+		reg[ 28 ] 0
+		reg[ 29 ] 0
+		reg[ 30 ] 0
+		reg[ 31 ] 0
+		reg[ 32 ] 0
+		reg[ 33 ] 0
+		reg[ 34 ] 0
+		reg[ 35 ] 0
+		reg[ 36 ] 0
+		reg[ 37 ] 0
+		reg[ 38 ] 0
+		reg[ 39 ] 0
+		reg[ 40 ] 0
+		reg[ 41 ] 0
+		reg[ 42 ] 0
+		reg[ 43 ] 0
+		reg[ 44 ] 0
+		reg[ 45 ] 0
+		reg[ 46 ] 0
+		reg[ 47 ] 0
+		reg[ 48 ] 0
+		reg[ 49 ] 0
+		reg[ 50 ] 0
+		reg[ 51 ] 0
+		reg[ 52 ] 0
+		reg[ 53 ] 0
+		reg[ 54 ] 0
+		reg[ 55 ] 0
+		reg[ 56 ] 0
+		reg[ 57 ] 0
+		reg[ 58 ] 0
+		reg[ 59 ] 0
+		reg[ 60 ] 0
+		reg[ 61 ] 0
+		reg[ 62 ] 0
+		reg[ 63 ] 0
+CF = 0
+end state
+
+@@@
+state:
+	pc 2
+	memory:
+		mem[ 0 ] 756987985925
+		mem[ 1 ] 758061727750
+		mem[ 2 ] 1169338400771
+		mem[ 3 ] 827854946311
+		mem[ 4 ] 1030792151040
+		mem[ 5 ] 140737488355328
+		mem[ 6 ] 1
+		mem[ 7 ] 0
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] 140737488355328
+		reg[ 2 ] 1
+		reg[ 3 ] 0
+		reg[ 4 ] 0
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+		reg[ 8 ] 0
+		reg[ 9 ] 0
+		reg[ 10 ] 0
+		reg[ 11 ] 0
+		reg[ 12 ] 0
+		reg[ 13 ] 0
+		reg[ 14 ] 0
+		reg[ 15 ] 0
+		reg[ 16 ] 0
+		reg[ 17 ] 0
+		reg[ 18 ] 0
+		reg[ 19 ] 0
+		reg[ 20 ] 0
+		reg[ 21 ] 0
+		reg[ 22 ] 0
+		reg[ 23 ] 0
+		reg[ 24 ] 0
+		reg[ 25 ] 0
+		reg[ 26 ] 0
+		reg[ 27 ] 0
+		reg[ 28 ] 0
+		reg[ 29 ] 0
+		reg[ 30 ] 0
+		reg[ 31 ] 0
+		reg[ 32 ] 0
+		reg[ 33 ] 0
+		reg[ 34 ] 0
+		reg[ 35 ] 0
+		reg[ 36 ] 0
+		reg[ 37 ] 0
+		reg[ 38 ] 0
+		reg[ 39 ] 0
+		reg[ 40 ] 0
+		reg[ 41 ] 0
+		reg[ 42 ] 0
+		reg[ 43 ] 0
+		reg[ 44 ] 0
+		reg[ 45 ] 0
+		reg[ 46 ] 0
+		reg[ 47 ] 0
+		reg[ 48 ] 0
+		reg[ 49 ] 0
+		reg[ 50 ] 0
+		reg[ 51 ] 0
+		reg[ 52 ] 0
+		reg[ 53 ] 0
+		reg[ 54 ] 0
+		reg[ 55 ] 0
+		reg[ 56 ] 0
+		reg[ 57 ] 0
+		reg[ 58 ] 0
+		reg[ 59 ] 0
+		reg[ 60 ] 0
+		reg[ 61 ] 0
+		reg[ 62 ] 0
+		reg[ 63 ] 0
+CF = 0
+end state
+
+@@@
+state:
+	pc 3
+	memory:
+		mem[ 0 ] 756987985925
+		mem[ 1 ] 758061727750
+		mem[ 2 ] 1169338400771
+		mem[ 3 ] 827854946311
+		mem[ 4 ] 1030792151040
+		mem[ 5 ] 140737488355328
+		mem[ 6 ] 1
+		mem[ 7 ] 0
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] 140737488355328
+		reg[ 2 ] 1
+		reg[ 3 ] 140737488355329
+		reg[ 4 ] 0
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+		reg[ 8 ] 0
+		reg[ 9 ] 0
+		reg[ 10 ] 0
+		reg[ 11 ] 0
+		reg[ 12 ] 0
+		reg[ 13 ] 0
+		reg[ 14 ] 0
+		reg[ 15 ] 0
+		reg[ 16 ] 0
+		reg[ 17 ] 0
+		reg[ 18 ] 0
+		reg[ 19 ] 0
+		reg[ 20 ] 0
+		reg[ 21 ] 0
+		reg[ 22 ] 0
+		reg[ 23 ] 0
+		reg[ 24 ] 0
+		reg[ 25 ] 0
+		reg[ 26 ] 0
+		reg[ 27 ] 0
+		reg[ 28 ] 0
+		reg[ 29 ] 0
+		reg[ 30 ] 0
+		reg[ 31 ] 0
+		reg[ 32 ] 0
+		reg[ 33 ] 0
+		reg[ 34 ] 0
+		reg[ 35 ] 0
+		reg[ 36 ] 0
+		reg[ 37 ] 0
+		reg[ 38 ] 0
+		reg[ 39 ] 0
+		reg[ 40 ] 0
+		reg[ 41 ] 0
+		reg[ 42 ] 0
+		reg[ 43 ] 0
+		reg[ 44 ] 0
+		reg[ 45 ] 0
+		reg[ 46 ] 0
+		reg[ 47 ] 0
+		reg[ 48 ] 0
+		reg[ 49 ] 0
+		reg[ 50 ] 0
+		reg[ 51 ] 0
+		reg[ 52 ] 0
+		reg[ 53 ] 0
+		reg[ 54 ] 0
+		reg[ 55 ] 0
+		reg[ 56 ] 0
+		reg[ 57 ] 0
+		reg[ 58 ] 0
+		reg[ 59 ] 0
+		reg[ 60 ] 0
+		reg[ 61 ] 0
+		reg[ 62 ] 0
+		reg[ 63 ] 0
+CF = 0
+end state
+
+@@@
+state:
+	pc 4
+	memory:
+		mem[ 0 ] 756987985925
+		mem[ 1 ] 758061727750
+		mem[ 2 ] 1169338400771
+		mem[ 3 ] 827854946311
+		mem[ 4 ] 1030792151040
+		mem[ 5 ] 140737488355328
+		mem[ 6 ] 1
+		mem[ 7 ] 140737488355329
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] 140737488355328
+		reg[ 2 ] 1
+		reg[ 3 ] 140737488355329
+		reg[ 4 ] 0
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+		reg[ 8 ] 0
+		reg[ 9 ] 0
+		reg[ 10 ] 0
+		reg[ 11 ] 0
+		reg[ 12 ] 0
+		reg[ 13 ] 0
+		reg[ 14 ] 0
+		reg[ 15 ] 0
+		reg[ 16 ] 0
+		reg[ 17 ] 0
+		reg[ 18 ] 0
+		reg[ 19 ] 0
+		reg[ 20 ] 0
+		reg[ 21 ] 0
+		reg[ 22 ] 0
+		reg[ 23 ] 0
+		reg[ 24 ] 0
+		reg[ 25 ] 0
+		reg[ 26 ] 0
+		reg[ 27 ] 0
+		reg[ 28 ] 0
+		reg[ 29 ] 0
+		reg[ 30 ] 0
+		reg[ 31 ] 0
+		reg[ 32 ] 0
+		reg[ 33 ] 0
+		reg[ 34 ] 0
+		reg[ 35 ] 0
+		reg[ 36 ] 0
+		reg[ 37 ] 0
+		reg[ 38 ] 0
+		reg[ 39 ] 0
+		reg[ 40 ] 0
+		reg[ 41 ] 0
+		reg[ 42 ] 0
+		reg[ 43 ] 0
+		reg[ 44 ] 0
+		reg[ 45 ] 0
+		reg[ 46 ] 0
+		reg[ 47 ] 0
+		reg[ 48 ] 0
+		reg[ 49 ] 0
+		reg[ 50 ] 0
+		reg[ 51 ] 0
+		reg[ 52 ] 0
+		reg[ 53 ] 0
+		reg[ 54 ] 0
+		reg[ 55 ] 0
+		reg[ 56 ] 0
+		reg[ 57 ] 0
+		reg[ 58 ] 0
+		reg[ 59 ] 0
+		reg[ 60 ] 0
+		reg[ 61 ] 0
+		reg[ 62 ] 0
+		reg[ 63 ] 0
+CF = 0
+end state
+machine halted
+total of 5 instructions executed
+final state of machine:
+
+@@@
+state:
+	pc 5
+	memory:
+		mem[ 0 ] 756987985925
+		mem[ 1 ] 758061727750
+		mem[ 2 ] 1169338400771
+		mem[ 3 ] 827854946311
+		mem[ 4 ] 1030792151040
+		mem[ 5 ] 140737488355328
+		mem[ 6 ] 1
+		mem[ 7 ] 140737488355329
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] 140737488355328
+		reg[ 2 ] 1
+		reg[ 3 ] 140737488355329
+		reg[ 4 ] 0
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+		reg[ 8 ] 0
+		reg[ 9 ] 0
+		reg[ 10 ] 0
+		reg[ 11 ] 0
+		reg[ 12 ] 0
+		reg[ 13 ] 0
+		reg[ 14 ] 0
+		reg[ 15 ] 0
+		reg[ 16 ] 0
+		reg[ 17 ] 0
+		reg[ 18 ] 0
+		reg[ 19 ] 0
+		reg[ 20 ] 0
+		reg[ 21 ] 0
+		reg[ 22 ] 0
+		reg[ 23 ] 0
+		reg[ 24 ] 0
+		reg[ 25 ] 0
+		reg[ 26 ] 0
+		reg[ 27 ] 0
+		reg[ 28 ] 0
+		reg[ 29 ] 0
+		reg[ 30 ] 0
+		reg[ 31 ] 0
+		reg[ 32 ] 0
+		reg[ 33 ] 0
+		reg[ 34 ] 0
+		reg[ 35 ] 0
+		reg[ 36 ] 0
+		reg[ 37 ] 0
+		reg[ 38 ] 0
+		reg[ 39 ] 0
+		reg[ 40 ] 0
+		reg[ 41 ] 0
+		reg[ 42 ] 0
+		reg[ 43 ] 0
+		reg[ 44 ] 0
+		reg[ 45 ] 0
+		reg[ 46 ] 0
+		reg[ 47 ] 0
+		reg[ 48 ] 0
+		reg[ 49 ] 0
+		reg[ 50 ] 0
+		reg[ 51 ] 0
+		reg[ 52 ] 0
+		reg[ 53 ] 0
+		reg[ 54 ] 0
+		reg[ 55 ] 0
+		reg[ 56 ] 0
+		reg[ 57 ] 0
+		reg[ 58 ] 0
+		reg[ 59 ] 0
+		reg[ 60 ] 0
+		reg[ 61 ] 0
+		reg[ 62 ] 0
+		reg[ 63 ] 0
+CF = 0
+end state
